@@ -1,0 +1,9 @@
+{
+    "nome": "nome",
+    "cognome": "cognome",
+    "indirizzo": "indirizzo",
+    "telefono": "telefono",
+    "email": "email",
+    "data": "data",
+    "ora": "ora"
+}
